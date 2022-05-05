@@ -25,7 +25,14 @@ body {
 
 #map {
     background-color: rgb(160, 211, 255);
+    width: 600px;
+    height: 450px;
     border-radius: 30px;
     margin-top: 20px;
     font-size: 60px;
+}
+
+#ever {
+    color: black;
+    font-size: 40px;
 }

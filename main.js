@@ -1,2 +1,3 @@
-var lat = position.coords.latitude;
-var lon = position.coords.longitude;
+function go() {
+    window.location = "https://www.google.com/maps/search/hospitals+near+me/@";
+}
